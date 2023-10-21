@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72004331506",
+    "project_id": "chotadhobi-2358a",
+    "storage_bucket": "chotadhobi-2358a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72004331506:android:2b5cb43e1568685cd0ad6b",
+        "android_client_info": {
+          "package_name": "com.chotadhobi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaq0-vVO5oLwEDxiBnStKihiSN0o9xsDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
